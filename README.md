@@ -1,7 +1,7 @@
 # es6-generators
 Samples for ES6 generators
 
-For more of my samples, see (sandcastle-samples)[https://github.com/sandcastle-samples].
+For more of my samples, see [sandcastle-samples](https://github.com/sandcastle-samples).
 
 
 ## Getting Started
