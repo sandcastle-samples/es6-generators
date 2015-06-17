@@ -1,0 +1,26 @@
+{
+  "name": "es6-generators",
+  "version": "1.0.0",
+  "description": "Samples for ES6 generators",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./node_modules/.bin/mocha --harmony test/**/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sandcastle-samples/es6-generators.git"
+  },
+  "keywords": [
+    "sample",
+    "es6",
+    "generators",
+    "js",
+    "javascript"
+  ],
+  "author": "Glenn Morton",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sandcastle-samples/es6-generators/issues"
+  },
+  "homepage": "https://github.com/sandcastle-samples/es6-generators#readme"
+}
