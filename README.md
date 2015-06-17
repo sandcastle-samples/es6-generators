@@ -1,6 +1,8 @@
 # es6-generators
 Samples for ES6 generators
 
+[![build status](https://travis-ci.org/sandcastle-samples/es6-generators.svg)](https://travis-ci.org/sandcastle-samples/es6-generators)
+
 For more of my samples, see [sandcastle-samples](https://github.com/sandcastle-samples).
 
 
